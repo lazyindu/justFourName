@@ -1,7 +1,3 @@
-# RENAMER_BOT_V3
-Telegram renamer bot
-Supports 4GB Files 
-
 ## Join Railway
 
 <a href="https://railway.app?referralCode=RFr_Ev">Join To Railway</a>
